@@ -34,8 +34,7 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-<h3 align="center">👋 Blog 👋ff</h3>
-<h3 align="center"> 🧸 Me 🧸 </h3>
+<h3 align="center"> 👋 Me 👋 </h3>
 <p align="center">
   <a href="https://searching-fundamental.tistory.com/"><img src="https://img.shields.io/badge/KR Blog-181717?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://searching-fundamental.tistory.com"/></a>&nbsp
   <a href="https://youngj-baek.github.io/"><img src="https://img.shields.io/badge/EN Blog-181717?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://youngj-baek.github.io/"/></a>&nbsp
