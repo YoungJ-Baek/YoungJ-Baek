@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <br>
   <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Perforce-404040?style=flat-square&logo=Perforce&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=amazon-Confluence&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>&nbsp 
 </p>
 <br>
