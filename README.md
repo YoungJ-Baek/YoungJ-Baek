@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=YoungjinBaek&fontSize=70&animation=twinkling)
 
-<h3 align="center">💪 Skills 💪</h3>
+<h3 align="center">💪 Tech Stack 💪</h3>
 
 <p align="center"> Platforms & Languages </p>
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-<h3 align="center"> 👋 Me 👋 </h3>
+<h3 align="center"> 👋 Contact Me 👋 </h3>
 <p align="center">
   <a href="https://searching-fundamental.tistory.com/"><img src="https://img.shields.io/badge/KR Blog-181717?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://searching-fundamental.tistory.com"/></a>&nbsp
   <a href="https://youngj-baek.github.io/"><img src="https://img.shields.io/badge/EN Blog-181717?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://youngj-baek.github.io/"/></a>&nbsp
@@ -47,8 +47,11 @@ Here are some ideas to get you started:
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoungJ-Baek&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
 </p>
 
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
 ![YoungJ-Baek's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungJ-Baek&theme=dark&show_icons=true)
 ![trophy](https://github-profile-trophy.vercel.app/?username=YoungJ-Baek)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoungJ-Baek)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
