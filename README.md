@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
-![YoungJ-Baek's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungJ-Baek&theme=dark&show_icons=true)
+[![YoungJ-Baek's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungJ-Baek&theme=dark&show_icons=true)]
 ![trophy](https://github-profile-trophy.vercel.app/?username=YoungJ-Baek)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoungJ-Baek)](https://github.com/anuraghazra/github-readme-stats)
