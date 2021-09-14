@@ -37,11 +37,16 @@ Here are some ideas to get you started:
 <h3 align="center">👋 Blog 👋ff</h3>
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
-  <a href="https://searching-fundamental.tistory.com/"><img src="https://img.shields.io/badge/KR Blog-EA4AAA?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://searching-fundamental.tistory.com"/></a>&nbsp
-  <a href="https://www.instagram.com/woo0_hooo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
-  <a href="mailto:viliketh1s98@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
+  <a href="https://searching-fundamental.tistory.com/"><img src="https://img.shields.io/badge/KR Blog-181717?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://searching-fundamental.tistory.com"/></a>&nbsp
+  <a href="https://youngj-baek.github.io/"><img src="https://img.shields.io/badge/EN Blog-181717?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://youngj-baek.github.io/"/></a>&nbsp
+  <a href="https://www.instagram.com/youngj_baek/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/youngj_baek/"/></a>&nbsp
+  <a href="mailto:qordudwls1@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=qordudwls1@gmail.com"/></a>
 </p>
 <br>
+
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoungJ-Baek&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
+</p>
 
 ![YoungJ-Baek's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungJ-Baek&theme=dark&show_icons=true)
 
