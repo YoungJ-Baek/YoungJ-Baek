@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Youngjin Baek&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=YoungjinBaek&fontSize=70&animation=twinkling)
 
 <p align="center">🇰🇷 🇦🇺 🇸🇬</p>
 
