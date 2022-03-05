@@ -41,7 +41,7 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=YoungJ-Baek&show_icons=true&locale=en" alt="YoungJ-Baek" width="400" height"300" /></p>  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=YoungJ-Baek&show_icons=true&locale=en" alt="YoungJ-Baek" width="500" height"300" /></p>  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YoungJ-Baek&show_icons=true&locale=en&layout=compact" alt="YoungJ-Baek" width="400" height"200"  /></p>   
 <br>
 
