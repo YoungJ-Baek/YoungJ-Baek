@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=YoungjinBaek&fontSize=70&animation=twinkling)
+<h3>YoungJ-Baek 👋</h3>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=YoungJ-Baek&show_icons=true&locale=en" alt="YoungJ-Baek" /></p>
 
 - 🔭 I've done 3 algorithm development, 1 undergraduate research student experience on Digital Signal Processing.     
 - 🔭 Now I'm working as a **FW Algorithm Engineer at SK hynix**.     
@@ -40,7 +41,9 @@
   <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YoungJ-Baek&show_icons=true&locale=en&layout=compact" alt="YoungJ-Baek" width"1000" height"1000"/></p>   
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=YoungJ-Baek&show_icons=true&locale=en" alt="YoungJ-Baek" /></p>  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YoungJ-Baek&show_icons=true&locale=en&layout=compact" alt="YoungJ-Baek" /></p>   
 <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoungJ-Baek&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)      
