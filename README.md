@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently interested in **Optical Flow** and **Low Level AI Concepts for FW/Memory field**.      
 
-- 👯 I've studied with those who work in AI**&**CV field. Feel free to join our study group for anyone who are willing to study AI or CV in depth.   
+- 👯 I've studied with those who work in AI **&** CV field. Feel free to join our study group for anyone who are willing to study AI or CV in depth.   
 
 - 📝 I regularly write articles on [Blog](https://searching-fundamental.tistory.com/)     
 
