@@ -1,60 +1,50 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=YoungjinBaek&fontSize=70&animation=twinkling)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=YoungJ-Baek&show_icons=true&locale=en" alt="YoungJ-Baek" /></p>
+
+- 🔭 I've done 3 algorithm development, 1 undergraduate research student experience on Digital Signal Processing.     
+- 🔭 Now I'm working as a **FW Algorithm Engineer at SK hynix**.     
+
+- 🌱 I’m currently interested in **Optical Flow** and **Low Level AI Concepts for FW/Memory field**.      
+
+- 👯 I've studied with those who work in AI**&**CV field. Feel free to join our study group for anyone who are willing to study AI or CV in depth.   
+
+- 📝 I regularly write articles on [Blog](https://searching-fundamental.tistory.com/)     
 
 <!--
 **YoungJ-Baek/YoungJ-Baek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=YoungjinBaek&fontSize=70&animation=twinkling)
+- 💬 Ask me about **AI, Memory Signal Processing, Image Signal Processing, Optical Flow.**
 
-<h3 align="center">💪 Tech Stack 💪</h3>
+- 📫 How to reach me **qordudwls1@gmail.com**
 
-<p align="center"> Platforms & Languages </p>
+- 📄 Know about my experiences [resume](https://pool-eclipse-f5f.notion.site/Youngjin-Baek-s-Home-bb74383cf9974828931df183d63b0f7d)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  
-  <br>
-  <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Perforce-404040?style=flat-square&logo=Perforce&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>&nbsp 
-</p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/youngjin-b-03b2bb213/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="YoungJ-Baek" height="30" width="40" /></a>
+  <!--
+<a href="https://www.instagram.com/youngj_baek/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="YoungJ-Baek" height="30" width="40" /></a>
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>  
+   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://hive.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> 
+  <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=YoungJ-Baek&show_icons=true&locale=en" alt="YoungJ-Baek" /></p>  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YoungJ-Baek&show_icons=true&locale=en&layout=compact" alt="YoungJ-Baek" /></p>   
 <br>
 
-<h3 align="center"> 👋 Contact Me 👋 </h3>
-<p align="center">
-  <a href="https://searching-fundamental.tistory.com/"><img src="https://img.shields.io/badge/KR Blog-181717?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://searching-fundamental.tistory.com"/></a>&nbsp
-  <a href="https://youngj-baek.github.io/"><img src="https://img.shields.io/badge/EN Blog-181717?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://youngj-baek.github.io/"/></a>&nbsp
-  <a href="https://www.instagram.com/youngj_baek/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/youngj_baek/"/></a>&nbsp
-  <a href="mailto:qordudwls1@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=qordudwls1@gmail.com"/></a>
-</p>
-<br>
-
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoungJ-Baek&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
-</p>
-
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungJ-Baek&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=YoungJ-Baek)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoungJ-Baek)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoungJ-Baek&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)      
