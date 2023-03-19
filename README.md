@@ -9,7 +9,7 @@
 
 - 👯 I've studied with those who work in AI **&** CV field. Feel free to join our study group for anyone who are willing to study AI/CV.   
 
-- 📝 I regularly write articles on [Blog](https://searching-fundamental.tistory.com/)     
+- 📝 I regularly write articles on [Blog (Korean)](https://searching-fundamental.tistory.com/), [Blog (English)](https://youngj-baek.github.io)
 
 <!--
 **YoungJ-Baek/YoungJ-Baek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
