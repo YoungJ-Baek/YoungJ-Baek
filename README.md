@@ -1,9 +1,7 @@
 <h3>YoungJ-Baek 👋</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=YoungJ-Baek&show_icons=true&locale=en" alt="YoungJ-Baek" /></p>
-
 - 🔭 I've done 3 algorithm development, 1 undergraduate research student experience on Digital Signal Processing.     
-- 🔭 Now I'm working as a **FW Algorithm Engineer at SK hynix**.     
+- 🔭 Now I'm working as a **FW Algorithm Engineer** at **SK hynix**.     
 
 - 🌱 I’m currently interested in **Optical Flow** and **Low Level AI Concepts for FW/Memory field**.      
 
